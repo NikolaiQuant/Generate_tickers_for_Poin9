@@ -1,0 +1,18 @@
+# Excel files
+*.xlsx
+*.xls
+
+# JSON files
+*.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Test file
+test.py
+
+# Generated folders
+old_result_from_script/
+old_scripts/
+parsing_date.py/
